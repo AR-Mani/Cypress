@@ -7,7 +7,6 @@ const common = new Common();
 class OLXSearch
 {
     visit(){
-        
         cy.visit(Cypress.env('baseURL'));
     }
 
