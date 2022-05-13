@@ -2,10 +2,6 @@
 
 class Common
 {
-    link(){
-        return 'https://www.olx.com.pk/'
-    }
-
     searchBox(){
         return '[type="search"]';
     }

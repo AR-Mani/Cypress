@@ -1,5 +1,8 @@
 {
+    "env": {
+        "baseURL" : "https://www.olx.com.pk"
+    },
+
     "watchForFileChanges":true,
-    "chromeWebSecurity": false,
-    "baseURL" : "https://www.olx.com.pk"
+    "chromeWebSecurity": false
 }
