@@ -1,6 +1,6 @@
 {
 
     "watchForFileChanges":true,
-    "chromeWebSecurity": false
-    
+    "chromeWebSecurity": false,
+    "baseURL" : "https://www.olx.com.pk"
 }

@@ -3,8 +3,7 @@
 import OLXClass from '../../support/OLX_POM/OLXSiteActions'
 const objOLX = new OLXClass()
 
-it.only('OLX test', () => {
-
+it('OLX test', () => {
 
   objOLX.visit()
 
